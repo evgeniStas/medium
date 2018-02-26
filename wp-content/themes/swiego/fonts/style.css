@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?n9txm9');
+  src:  url('icomoon.eot?n9txm9#iefix') format('embedded-opentype'),
+  url('icomoon.ttf?n9txm9') format('truetype'),
+  url('icomoon.woff?n9txm9') format('woff'),
+  url('icomoon.svg?n9txm9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"], .listarr>a:after, .single_add_to_cart_button:after {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_bred:before {
+  content: "\e909";
+}
+.icon-search_ic:before {
+  content: "\e908";
+  color: #4a4a4a;
+}
+.icon-tw:before {
+  content: "\e900";
+  color: #4a4a4a;
+}
+.icon-Path-2:before {
+  content: "\e901";
+  color: #979797;
+}
+.icon-in:before {
+  content: "\e902";
+}
+.icon-fb:before {
+  content: "\e903";
+}
+.icon-close:before {
+  content: "\e904";
+  color: #979797;
+}
+.icon-cart:before {
+  content: "\e905";
+  color: #4a4a4a;
+}
+.icon-arrow_02:before {
+  content: "\e906";
+}
+.icon-arrow_01:before {
+  content: "\e907";
+}

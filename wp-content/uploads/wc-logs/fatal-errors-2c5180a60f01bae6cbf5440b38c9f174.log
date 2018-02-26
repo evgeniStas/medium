@@ -1,0 +1,24 @@
+2018-02-26T08:12:42+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Term::get_image() in /var/www/html/medium/wp-content/themes/swiego/tpl_index.php:100
+Stack trace:
+#0 /var/www/html/medium/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/medium/wp-blog-header.php(19): require_once('/var/www/html/m...')
+#2 /var/www/html/medium/index.php(17): require('/var/www/html/m...')
+#3 {main}
+  thrown
+
+2018-02-26T09:25:14+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /var/www/html/medium/wp-content/themes/swiego/tpl_index.php:24
+Stack trace:
+#0 /var/www/html/medium/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/medium/wp-blog-header.php(19): require_once('/var/www/html/m...')
+#2 /var/www/html/medium/index.php(17): require('/var/www/html/m...')
+#3 {main}
+  thrown
+
+2018-02-26T09:43:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in /var/www/html/medium/wp-content/themes/swiego/tpl_index.php:31
+Stack trace:
+#0 /var/www/html/medium/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/medium/wp-blog-header.php(19): require_once('/var/www/html/m...')
+#2 /var/www/html/medium/index.php(17): require('/var/www/html/m...')
+#3 {main}
+  thrown
+
