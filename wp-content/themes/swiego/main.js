@@ -4,7 +4,8 @@ var page_slider = 0;
 $(function() {
     $(".rigth-menu #icon-search_ic").on("click", function (event) {
         $(this).css("display","none");
-        $('.search-menu').show("slide").css("display","inline-block");;
+        $('.search-menu').show("slide").css("display","inline-block");
+        $('.search-menu input').focus();
     });
     $("#types .controls .right").on("click", function (event) {
         var width = $("#types .types").width();
