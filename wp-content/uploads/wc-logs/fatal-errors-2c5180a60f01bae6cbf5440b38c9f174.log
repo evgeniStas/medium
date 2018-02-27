@@ -22,3 +22,19 @@ Stack trace:
 #3 {main}
   thrown
 
+2018-02-27T11:45:17+00:00 CRITICAL Uncaught Error: Call to undefined function shape_content_nav() in /var/www/html/medium/wp-content/themes/swiego/search.php:24
+Stack trace:
+#0 /var/www/html/medium/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/medium/wp-blog-header.php(19): require_once('/var/www/html/m...')
+#2 /var/www/html/medium/index.php(17): require('/var/www/html/m...')
+#3 {main}
+  thrown
+
+2018-02-27T11:45:45+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/html/medium/wp-content/themes/swiego/search.php:15
+Stack trace:
+#0 /var/www/html/medium/wp-includes/template-loader.php(74): include()
+#1 /var/www/html/medium/wp-blog-header.php(19): require_once('/var/www/html/m...')
+#2 /var/www/html/medium/index.php(17): require('/var/www/html/m...')
+#3 {main}
+  thrown
+

@@ -73,3 +73,21 @@ function sm_woo_custom_checkout_button_text() {
     <a href="<?php echo $checkout_url; ?>" class="checkout-button btn-black alt wc-forward"><?php  _e( 'CONTINUE', 'woocommerce' ); ?><span class="icon-arrow_bred"></span></a>
     <?php
 }
+
+function wpa89819_wc_single_product(){
+
+    $product_cats = wp_get_post_terms( get_the_ID(), 'product_cat' );
+
+    if ( $product_cats && ! is_wp_error ( $product_cats ) ){
+
+        $single_cat = array_shift( $product_cats ); ?>
+
+        <div>Category : <strong><?php echo $single_cat->name; ?></strong></div>
+
+    <?php }
+    global $product;
+    $koostis = $product->get_attribute( 'brands' );
+    ?>
+     <div>Brand : <strong><?php echo $koostis; ?></strong></div>
+    <?php
+}

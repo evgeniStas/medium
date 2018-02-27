@@ -16,7 +16,7 @@ $(function() {
         var margin = page_slider*150;
 
 
-        $("#types .type:first-child").css("margin-left","-"+margin);
+        $("#types .type:first-child").animate({ 'margin-left': "-"+margin}, 500);
 
     });
     $("#types .controls .left").on("click", function (event) {
@@ -24,6 +24,6 @@ $(function() {
         if(page_slider==0){return false}
         page_slider--;
         var margin = page_slider*150;
-        $("#types .type:first-child").css("margin-left","-"+margin);
+        $("#types .type:first-child").animate({ 'margin-left': "-"+margin}, 500);
     });
 });

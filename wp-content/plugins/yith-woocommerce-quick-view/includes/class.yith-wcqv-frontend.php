@@ -243,13 +243,14 @@ if( ! class_exists( 'YITH_WCQV_Frontend' ) ) {
 		 * @author Francesco Licandro <francesco.licandro@yithemes.com>
 		 */
 		public function yith_quick_view_action_template() {
-
 			// Image
 			add_action( 'yith_wcqv_product_image', 'woocommerce_show_product_sale_flash', 10 );
 			add_action( 'yith_wcqv_product_image', 'woocommerce_show_product_images', 20 );
 
 			// Summary
             add_action( 'yith_wcqv_product_summary', 'woocommerce_template_single_title', 5 );
+            add_action( 'yith_wcqv_product_summary', 'wpa89819_wc_single_product', 6 );
+            //add_action( 'yith_wcqv_product_summary', 'woocommerce_template_single_title', 6 );
             add_action( 'yith_wcqv_product_summary', 'woocommerce_template_single_price', 10 );
             add_action( 'yith_wcqv_product_summary', 'woocommerce_product_description_tab', 15 );
 			add_action( 'yith_wcqv_product_summary', 'woocommerce_template_single_rating', 20 );

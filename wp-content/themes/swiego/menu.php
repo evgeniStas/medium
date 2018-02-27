@@ -22,6 +22,10 @@ $id_index = 9;
     <div class="menu-items">
         <div class="main-menu">
             <?php wp_nav_menu();?>
+            <div class="login">
+                <a href="<?php echo wp_login_url(); ?>" title="Login">Login</a>
+                <a href="<?php echo wp_registration_url(); ?>">Register</a>
+            </div>
         </div>
         <div class="rigth-menu">
             <?php get_product_search_form();?>

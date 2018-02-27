@@ -34,6 +34,38 @@ function my_remove_variation_price( $price ) {
                 </div>
                 <div class="woo-container woocommerce">
                     <?php woocommerce_content(); ?>
+                    <?php if(is_search()){
+
+                        $orderby = 'name';
+                        $order = 'asc';
+                        $hide_empty = false ;
+                        $cat_args = array(
+                            'orderby'    => $orderby,
+                            'order'      => $order,
+                            'hide_empty' => $hide_empty,
+                            'name__like' => get_search_query()
+                        );
+
+                        $product_categories = get_terms( 'product_cat', $cat_args );
+
+                        if( !empty($product_categories) ){
+                            echo '<h2>Categories</h2>';
+                            echo '<ul class="products columns-3">';
+                            foreach ($product_categories as $key => $category) {
+                                $thumbnail_id = get_woocommerce_term_meta( $category->term_id, 'thumbnail_id', true );
+                                $image = wp_get_attachment_url( $thumbnail_id );
+                                echo '<li class="product-category product">';
+                                echo '<a href="'.get_term_link($category).'" >';
+                                echo '<img src="'.$image.'" alt="'.$category->name.'" width="200" height="200">';
+                                echo '<h2 class="woocommerce-loop-category__title">'.$category->name.'</h2>';
+                                echo '</a>';
+                                echo '<li>';
+                            }
+                            echo '</ul>';
+                        }
+
+                        ?>
+                    <?php }?>
                 </div>
             </div>
         </div>
