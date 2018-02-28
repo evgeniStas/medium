@@ -18,10 +18,10 @@ Author URI: http://swiego.com
 .container {
     margin-right: auto;
     margin-left: auto;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
     text-align: center;
-    width: 930px;
+    /*width: 930px;*/
 }
 html,body {
     width: 100%;
@@ -135,7 +135,7 @@ a:hover {
 #sales .item {
     width:33.333%;
     float: left;
-    height: 253px;
+    /*height: 253px;*/
     overflow: hidden;
     position: relative;
     margin-top: 30px;
@@ -147,20 +147,24 @@ a:hover {
     clear: both;
 }
 #sales .item .content {
-    height: 252px;
     background-repeat: no-repeat;
     background-position: center center;
+    height: 340px;
+    background-size: cover;
+    margin: 10px;
 }
 #sales .item .controll {
     position: absolute;
     bottom: 0;
     right: 0;
     width: 100%;
-    background: white;
 }
 #sales .item .controll .info {
     float: left;
-    width: 54%;
+    width: 60%;
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 #sales .item .controll .btn {
     width: 40%;
@@ -168,9 +172,9 @@ a:hover {
     position: absolute;
     bottom: 0;
     right: 0;
-    padding-top: 13px;
-    padding-right: 15px;
-    padding-left: 10px;
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 #sales .item .controll:after {
     content: '';
@@ -303,7 +307,7 @@ a:hover {
 }
 #collection .container {
     background-color: #FBFBFB;
-    padding: 0px;
+    /*padding: 0px;*/
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -731,6 +735,9 @@ input[type='text'], input[type='search'], input[type='email'], input[type='tel']
     white-space: nowrap;
 }
 @media (min-width: 740px) and (max-width: 1200px) {
+    #sales .item .content {
+        height: 300px;
+    }
     .container {
         width: 650px;
     }
@@ -767,6 +774,9 @@ input[type='text'], input[type='search'], input[type='email'], input[type='tel']
     }
 }
 @media (max-width: 740px) {
+    #sales .item .content {
+        height: 400px;
+    }
     .container {
         width: auto;
     }

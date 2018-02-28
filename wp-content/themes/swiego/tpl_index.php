@@ -53,8 +53,8 @@ Template Name: Index
                                 <div class="controll">
                                     <div class="info">
                                         <div class="title"><?php echo $post->post_title; ?></div>
-                                        <div class="sile"><?php echo $product->get_regular_price();?></div>
-                                        <div class="price"><?php echo $product->get_sale_price();?></div>
+                                        <div class="sile">$800</div>
+                                        <div class="price">$250</div>
                                     </div>
                                     <div class="btn">
                                         <div class="button">
