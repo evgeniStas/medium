@@ -141,10 +141,14 @@ a:hover {
     margin-top: 30px;
     cursor: pointer;
 }
-#sales:after {
+#sales .container:after {
     content: '';
     display: block;
     clear: both;
+}
+#sales .container {
+    padding-left: 60px;
+    padding-right: 60px;
 }
 #sales .item .content {
     background-repeat: no-repeat;
@@ -202,7 +206,7 @@ a:hover {
     font-weight: bold;
 }
 .button {
-    border: 1px solid #1D1D1D!important;
+    border: 2px solid #6d6d6d!important;
     border-radius: 100px!important;
     padding-top: 10px!important;
     padding-bottom: 6px!important;
@@ -294,10 +298,16 @@ a:hover {
 }
 #types .controls>div {
     float: right;
-    border: 2px solid #4A4A4A;
+    border: 2px solid #6d6d6d;
     border-radius: 50%;
     font-size: 31px;
     cursor:pointer;
+}
+#types .controls>div:hover {
+    background: #212121;
+}
+#types .controls>div:hover span:before {
+    color: #fff!important;
 }
 #types .controls>div:last-child {
     margin-right: 24px;
@@ -311,15 +321,20 @@ a:hover {
     margin-top: 54px;
 }
 #collection .container {
-    background-color: #FBFBFB;
+    background-color: #ececec;
     /*padding: 0px;*/
     padding-top: 40px;
     padding-bottom: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
 }
 #collection .left-photo {
     float: left;
-    width: 40%;
+    width: 35%;
     margin-top: 55px;
+}
+#collection .left-photo img {
+    width:80%;
 }
 #collection .right-content {
     float: left;
@@ -336,12 +351,18 @@ a:hover {
 }
 #collection .right-content .desc {
     color: #2F2B2B;
-    font-size: 16px;
-    line-height: 26px;
+    font-size: 18px;
     margin-top: 22px;
+    line-height: 26px;
+    letter-spacing: 1;
+    margin-bottom: 10px;
+}
+#collection .right-content .controlls {
+    margin-right: 20px;
 }
 #collection .right-content img {
     margin-top: 30px;
+    width: 100%;
 }
 #collection .right-content .controlls>div {
     float: right;
@@ -377,11 +398,17 @@ a:hover {
 #footer .social .item {
     float:right;
     font-size: 31px;
-    border: 2px solid #4A4A4A;
+    border: 2px solid #6d6d6d;
     border-radius: 50%;
     margin-left: 22px;
     width: 35px;
     height: 35px;
+}
+#footer .social .item:hover {
+    background: #212121;
+}
+#footer .social .item:hover span:before {
+    color: #fff!important;
 }
 #footer .social .item:last-child {
     margin-left: 0px;
