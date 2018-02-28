@@ -26,4 +26,20 @@ $(function() {
         var margin = page_slider*150;
         $("#types .type:first-child").animate({ 'margin-left': "-"+margin}, 500);
     });
+
+
+    var $icons = $('#brands');
+    function loopImg(){
+        var $first = $icons.find('.brand:first-child');
+        $first.animate({
+            'marginLeft': '-='+ $first.outerWidth(true)+'px'
+        }, 5000, 'linear', function(){
+            $first.clone().removeAttr('style').appendTo($("#brands"));
+            $first.remove();
+            loopImg();
+        });
+    }
+    loopImg();
+
+
 });

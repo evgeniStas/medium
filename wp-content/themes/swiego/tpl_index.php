@@ -33,7 +33,8 @@ Template Name: Index
                     //var_dump($product);
                     if ($i == 2) {
                         ?>
-                        <div class="item">
+                        <div class="item all">
+                            <div class="mask"></div>
                             <div style="background-image: url(<?php echo get_template_directory_uri(); ?>/image/pete-bellis.png);"
                                  class="content">
                                 <div class="modal">
@@ -80,20 +81,20 @@ Template Name: Index
             </div>
         </div>
         <div id="brands">
-            <div class="container">
-                <?php
-                $args = array(  'post_type'=> 'lables', 'posts_per_page' => -1);
-                $Social = get_posts( $args );
-                wp_reset_postdata();
-                foreach( $Social as $item ) {
+            <?php
+            $args = array(  'post_type'=> 'lables', 'posts_per_page' => -1);
+            $Social = get_posts( $args );
+            wp_reset_postdata();
+            for($i=0;$i<3;$i++) {
+                foreach ($Social as $item) {
                     setup_postdata($item);
                     $img = get_field('photo', $item->ID)["sizes"]["large"];
                     ?>
                     <div class="brand"><img src="<?php echo $img; ?>"/></div>
                     <?php
                 }
-                ?>
-            </div>
+            }
+            ?>
         </div>
         <div id="types">
             <div class="container">
@@ -128,6 +129,7 @@ Template Name: Index
                             $image = wp_get_attachment_url( $thumbnail_id );
                             ?>
                                 <div class="type">
+                                    <div class="mask"></div>
                                     <a href="<?php echo get_term_link($cat->slug, 'product_cat');?>">
                                         <div class="title"><?php echo $cat->name;?></div>
                                         <img src="<?php echo $image; ?>"/>
