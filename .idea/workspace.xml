@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css" line="132" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0059f43-3154-4470-82aa-b503465a5bfe" name="Default" comment="" />
+    <list default="true" id="b0059f43-3154-4470-82aa-b503465a5bfe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/style.css" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +69,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="359" column="37" lean-forward="false" selection-start-line="359" selection-start-column="37" selection-end-line="359" selection-end-column="37" />
+            <state relative-caret-position="723">
+              <caret line="409" column="29" lean-forward="false" selection-start-line="409" selection-start-column="29" selection-end-line="409" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -335,12 +337,12 @@
       <workItem from="1519715287337" duration="17035000" />
       <workItem from="1519802048698" duration="9283000" />
       <workItem from="1519813798756" duration="5770000" />
-      <workItem from="1519820967239" duration="6987000" />
+      <workItem from="1519820967239" duration="7611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173379000" />
+    <option name="totallyTimeSpent" value="174003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
@@ -740,8 +742,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="359" column="37" lean-forward="false" selection-start-line="359" selection-start-column="37" selection-end-line="359" selection-end-column="37" />
+        <state relative-caret-position="723">
+          <caret line="409" column="29" lean-forward="false" selection-start-line="409" selection-start-column="29" selection-end-line="409" selection-end-column="29" />
           <folding />
         </state>
       </provider>
