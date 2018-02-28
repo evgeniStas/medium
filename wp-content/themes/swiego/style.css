@@ -252,9 +252,10 @@ a:hover {
     line-height: 39px;
 }
 #brands {
-    margin-top: 50px;
     white-space: nowrap;
     overflow: hidden;
+    margin-top: 76px;
+    padding-bottom: 19px;
 }
 #brands .brand {
     display:inline-block;
