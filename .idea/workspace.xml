@@ -5,51 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0059f43-3154-4470-82aa-b503465a5bfe" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-1024x681.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-150x150.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-200x200.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-300x200.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-350x233.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-400x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01-768x511.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-1024x696.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-150x150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-200x200.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-300x204.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-350x238.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-400x400.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02-768x522.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-1024x612.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-150x150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-200x200.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-300x179.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-350x209.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-400x400.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1-768x459.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-1024x612.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-150x150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-200x200.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-300x179.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-350x209.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-400x400.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03-768x459.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-1024x612.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-150x150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-200x200.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-300x179.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-350x209.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-400x400.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04-768x459.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/02/photo_04.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/image/pete-bellis.png" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/image/pete-bellis.png" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/style.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/tpl_index.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/tpl_index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +19,7 @@
       <file leaf-file-name="product-searchform.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/product-searchform.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="0">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
@@ -103,18 +59,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="783" column="18" lean-forward="true" selection-start-line="783" selection-start-column="18" selection-end-line="783" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="41" />
+            <state relative-caret-position="570">
+              <caret line="775" column="30" lean-forward="false" selection-start-line="775" selection-start-column="30" selection-end-line="775" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -309,37 +255,14 @@
               <item name="medium" type="b2602c69:ProjectViewProjectNode" />
               <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="medium" type="b2602c69:ProjectViewProjectNode" />
               <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yith-woocommerce-quick-view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yith-woocommerce-quick-view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yith-woocommerce-quick-view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiego" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -395,12 +318,12 @@
       <workItem from="1519629011504" duration="27323000" />
       <workItem from="1519715287337" duration="17035000" />
       <workItem from="1519802048698" duration="9283000" />
-      <workItem from="1519813798756" duration="785000" />
+      <workItem from="1519813798756" duration="2411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161407000" />
+    <option name="totallyTimeSpent" value="163033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
@@ -506,13 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -768,7 +684,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/product-searchform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="0">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
@@ -790,10 +706,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/medium.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="783" column="18" lean-forward="true" selection-start-line="783" selection-start-column="18" selection-end-line="783" selection-end-column="18" />
+        <state relative-caret-position="570">
+          <caret line="775" column="30" lean-forward="false" selection-start-line="775" selection-start-column="30" selection-end-line="775" selection-end-column="30" />
           <folding />
         </state>
       </provider>

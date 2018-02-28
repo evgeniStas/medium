@@ -772,6 +772,10 @@ input[type='text'], input[type='search'], input[type='email'], input[type='tel']
     .woocommerce .quantity .qty {
         width: 60px!important;
     }
+    #sales .controll .button {
+        width: auto!important;
+        display: inline-block;
+    }
 }
 @media (max-width: 740px) {
     #sales .item .content {
@@ -939,4 +943,8 @@ input:focus {
 }
 .main-menu .login a{
     margin-right: 35px;
+}
+#sales .controll .button {
+    width: 127px;
+    display: inline-block;
 }
