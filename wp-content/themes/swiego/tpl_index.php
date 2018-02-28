@@ -61,7 +61,7 @@ Template Name: Index
                                         <div class="button">
                                             <a style="color: inherit;" href="<?php echo $post->guid; ?>">
                                                 SHOP NOW
-                                                <span class="icon-cart"></span>
+                                                <span class="icon-btn_cart"></span>
                                             </a>
                                         </div>
                                     </div>
