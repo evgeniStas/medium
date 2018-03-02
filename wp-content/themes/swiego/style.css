@@ -222,6 +222,7 @@ a:hover {
 .button:hover {
     background-color: #212121!important;
     color: #E6E6E6!important;
+    border: 2px solid #212121!important;
 }
 #sales .item .controll .btn .button:hover span:before {
     color: #E6E6E6;
@@ -481,7 +482,7 @@ a:hover {
 }
 .products .woocommerce-loop-product__title {
     text-align: left;
-    font-size: 20px;
+    font-size: 20px!important;
     font-weight: bold;
     letter-spacing: 1px;
     color: #000000;
@@ -514,7 +515,8 @@ a:hover {
     display: none;
 }
 .single_variation_wrap div:first-child{
-    float:left;
+    display: inline-block;
+    vertical-align: top;
 }
 .single_variation_wrap div:last-child{
     float:right;
@@ -562,6 +564,7 @@ a:hover {
 }
 .product-categories li span {
     float: right;
+    color: #777777;
 }
 .product-categories li:after{
     content: '';
@@ -577,6 +580,7 @@ a:hover {
 }
 .berocket_aapf_widget  li .count  {
     float: right;
+    color: #777777;
 }
 .berocket_aapf_widget  li:after{
     content: '';
@@ -626,10 +630,13 @@ ul.berocket_aapf_widget {
     color: #000000!important;
     font-size: 30px!important;
 }
-.yith-wcqv-wrapper .single_variation_wrap div:last-child {
-    float:left;
+.woocommerce-variation-add-to-cart {
+    display:inline-block;
 }
-.yith-wcqv-wrapper .single_variation_wrap input, .product-quantity input, .woocommerce-variation-add-to-cart input {
+.yith-wcqv-wrapper .single_variation_wrap div:last-child {
+    /*float:left;*/
+}
+.yith-wcqv-wrapper .single_variation_wrap input, .product-quantity input, .cart .woocommerce-variation-add-to-cart input {
     border: 1px solid #DCDCDC;
     color: #9D9393;
     font-size: 14px;
@@ -724,12 +731,11 @@ ul.berocket_aapf_widget {
     font-weight: bold!important;
     line-height: 26px!important;
 }
-.product-quantity input:first-child,  .product-quantity input:last-child, .woocommerce-variation-add-to-cart input:first-child, .woocommerce-variation-add-to-cart input:last-child{
+.woocommerce-cart-form .product-quantity input:first-child, .woocommerce-cart-form .product-quantity input:last-child, .woocommerce-cart-form .woocommerce-variation-add-to-cart input:first-child, .woocommerce-cart-form .woocommerce-variation-add-to-cart input:last-child{
     background: none;
-    border: none;
     font-size: 30px;
-    font-weight: 100;
     vertical-align: top;
+    border: none;
 }
 .rigth-menu a {
     position: relative;
@@ -747,7 +753,7 @@ ul.berocket_aapf_widget {
     padding: 0;
     border-radius: 50%;
     line-height: 19px;
-    left: 2px
+    left: 4px
 }
 .rigth-menu button{
     padding: 0;

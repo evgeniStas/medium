@@ -50,7 +50,6 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 	 */
 	do_action( 'woocommerce_shop_loop_item_title' );
     ?>
-    <div class="choose">Сhoose your…</div>
     <?php
 	/**
 	 * woocommerce_after_shop_loop_item_title hook.
@@ -67,6 +66,9 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 	 * @hooked woocommerce_template_loop_add_to_cart - 10
 	 */
     do_action( 'woocommerce_after_shop_loop_item' );
+    ?>
+    <div class="choose">Сhoose your…</div>
+    <?php
 
     remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_title', 5 );
     remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_meta', 40 );

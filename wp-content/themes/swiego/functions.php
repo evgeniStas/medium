@@ -91,3 +91,6 @@ function wpa89819_wc_single_product(){
      <div>Brand : <strong><?php echo $koostis; ?></strong></div>
     <?php
 }
+
+add_theme_support('post-thumbnails');
+add_image_size( 'preview', $width = 3072, $height =3072, $crop = false );

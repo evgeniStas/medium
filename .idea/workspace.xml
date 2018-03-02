@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0059f43-3154-4470-82aa-b503465a5bfe" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/css/widget.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/css/widget.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss" />
       <change beforePath="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv-frontend.php" afterPath="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv-frontend.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/product-image.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/product-image.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/tabs/description.php" afterPath="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/tabs/description.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,35 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="product-searchform.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/product-searchform.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="736" column="24" lean-forward="false" selection-start-line="736" selection-start-column="24" selection-end-line="736" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single-product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product.php">
+      <file leaf-file-name="woocommerce.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="47" column="6" lean-forward="true" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+            <state relative-caret-position="316">
+              <caret line="0" column="2787" lean-forward="false" selection-start-line="0" selection-start-column="2787" selection-end-line="0" selection-end-column="2787" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single-product-reviews.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product-reviews.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <marker date="1519051706281" expanded="true" signature="4016:4674" ph="..." />
-                <marker date="1519051706281" expanded="true" signature="4158:4668" ph="..." />
-              </folding>
+            <state relative-caret-position="754">
+              <caret line="94" column="13" lean-forward="false" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,61 +70,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yith-quick-view-content.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/templates/yith-quick-view-content.php">
+      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="298">
+              <caret line="146" column="35" lean-forward="true" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#form#0;n#!!top" expanded="true" />
+                <marker date="1519982856514" expanded="true" signature="2735:2742" ph="×" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="137" column="102" lean-forward="false" selection-start-line="137" selection-start-column="102" selection-end-line="137" selection-end-column="102" />
+              <folding>
+                <marker date="1519982752117" expanded="true" signature="2631:2638" ph="×" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="woocommerce.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class.yith-wcqv-frontend.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv-frontend.php">
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="254" column="13" lean-forward="false" selection-start-line="254" selection-start-column="13" selection-end-line="254" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="up-sells.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/up-sells.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="644">
+              <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="title.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/title.php">
+      <file leaf-file-name="description.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/tabs/description.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-single-product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-single-product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-widget-product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-widget-product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -132,9 +147,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>woocommerce_single_product_summary</find>
-      <find>price_h</find>
-      <find>YITH_WCQV</find>
       <find>yith-quick-view-content</find>
       <find>qv_content</find>
       <find>yith_wccl</find>
@@ -153,7 +165,6 @@
       <find>li.product{</find>
       <find>a h</find>
       <find>center_modal</find>
-      <find>quantity</find>
       <find>product-name</find>
       <find>aft</find>
       <find>cont</find>
@@ -162,6 +173,10 @@
       <find>cate</find>
       <find>yith_wcqv_product_summary</find>
       <find>types</find>
+      <find>not-a</find>
+      <find>.quantity</find>
+      <find>quantity</find>
+      <find>upd</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,10 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/walkers/class-product-cat-list-walker.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/includes/widget.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/templates/widget_update_button.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-product-categories.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/woocommerce-filters.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/templates/select.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/templates/checkbox.php" />
@@ -182,7 +193,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/loop/add-to-cart.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/add-to-cart/external.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/templates/yith-quick-view.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/tabs/description.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/includes/wc-template-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/price.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv.php" />
@@ -190,10 +200,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/add-to-cart/variable.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/global/breadcrumb.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-quantity-increment/assets/css/wc-quantity-increment.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart-item-data.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/header.php" />
@@ -204,22 +211,30 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart-totals.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/menu.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/searchpage.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/search.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product_cat.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/archive-product.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/main.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/swiego/tpl_index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/swiego/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/templates/yith-quick-view-content.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/css/widget.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/product-image.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv-frontend.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/tabs/description.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php" />
         <option value="$PROJECT_DIR$/wp-config.php" />
       </list>
     </option>
@@ -253,6 +268,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,29 +292,6 @@
               <item name="medium" type="b2602c69:ProjectViewProjectNode" />
               <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yith-woocommerce-quick-view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yith-woocommerce-quick-view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="yith-woocommerce-quick-view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -306,30 +300,11 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="swiego" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="swiego" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="medium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medium" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="swiego" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="single-product" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,12 +354,13 @@
       <workItem from="1519715287337" duration="17035000" />
       <workItem from="1519802048698" duration="9283000" />
       <workItem from="1519813798756" duration="5770000" />
-      <workItem from="1519820967239" duration="8681000" />
+      <workItem from="1519820967239" duration="9079000" />
+      <workItem from="1519974865453" duration="6697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175073000" />
+    <option name="totallyTimeSpent" value="182168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
@@ -395,6 +371,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -406,7 +383,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -423,69 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2156" lean-forward="false" selection-start-line="0" selection-start-column="2156" selection-end-line="0" selection-end-column="2156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="128" column="18" lean-forward="true" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="31" column="84" lean-forward="false" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart-totals.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/taxonomy-product_cat.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -542,21 +455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="92" column="1" lean-forward="false" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="58" column="84" lean-forward="false" selection-start-line="58" selection-start-column="84" selection-end-line="58" selection-end-column="84" />
-          <folding>
-            <marker date="1519739653877" expanded="true" signature="2487:2511" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,19 +483,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="51" column="50" lean-forward="false" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,23 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
           <caret line="63" column="74" lean-forward="false" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="253" column="9" lean-forward="false" selection-start-line="253" selection-start-column="9" selection-end-line="253" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,27 +586,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product_cat.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,23 +628,7 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="47" column="6" lean-forward="true" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv-frontend.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="254" column="13" lean-forward="false" selection-start-line="254" selection-start-column="13" selection-end-line="254" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/templates/yith-quick-view-content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -799,10 +636,151 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product-reviews.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding>
             <marker date="1519051706281" expanded="true" signature="4016:4674" ph="..." />
             <marker date="1519051706281" expanded="true" signature="4158:4668" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/templates/yith-quick-view-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-ajax-filters/css/widget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/product-image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="52" column="93" lean-forward="false" selection-start-line="52" selection-start-column="93" selection-end-line="52" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="69" column="42" lean-forward="false" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woo-variation-swatches/assets/css/frontend-tooltip.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2118" lean-forward="false" selection-start-line="7" selection-start-column="2118" selection-end-line="7" selection-end-column="2118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/yith-woocommerce-quick-view/includes/class.yith-wcqv-frontend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="254" column="89" lean-forward="false" selection-start-line="254" selection-start-column="54" selection-end-line="254" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/single-product/tabs/description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/fonts/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="736" column="24" lean-forward="false" selection-start-line="736" selection-start-column="24" selection-end-line="736" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/woocommerce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="0" column="2787" lean-forward="false" selection-start-line="0" selection-start-column="2787" selection-end-line="0" selection-end-column="2787" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="94" column="13" lean-forward="false" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="137" column="102" lean-forward="false" selection-start-line="137" selection-start-column="102" selection-end-line="137" selection-end-column="102" />
+          <folding>
+            <marker date="1519982752117" expanded="true" signature="2631:2638" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/swiego/woocommerce/cart/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="146" column="35" lean-forward="true" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#form#0;n#!!top" expanded="true" />
+            <marker date="1519982856514" expanded="true" signature="2735:2742" ph="×" />
           </folding>
         </state>
       </provider>

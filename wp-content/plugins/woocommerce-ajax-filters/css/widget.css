@@ -20,6 +20,7 @@ ul.products.hide_products li{
     height: 14px;
     background: url('../images/sprite.png') no-repeat;
     cursor: pointer;
+    margin-right: 14px;
 }
 
 .berocket_aapf_widget input[type="checkbox"]:checked + label:before {

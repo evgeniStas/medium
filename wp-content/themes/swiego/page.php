@@ -10,7 +10,7 @@ $post = get_post();
 </head>
 <?php require_once("menu.php")?>
     <div class="container">
-        <div>
+        <div <?php if(is_cart()){echo "style='background-color: #ececec;padding: 40px;'";}?>>
             <?php if(!is_cart()){?>
                 <h1><?php echo $post->post_title;?></h1>
             <?php }else{?>

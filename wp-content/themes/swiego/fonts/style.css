@@ -9,7 +9,7 @@
   font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"], .menu a:after {
+[class^="icon-"], [class*=" icon-"], .menu a:after, .single_add_to_cart_button:after {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: none;
@@ -54,6 +54,7 @@
 .icon-cart:before {
   content: "\e905";
   color: #4a4a4a;
+  font-size: 23px;
 }
 .icon-arrow_02:before {
   content: "\e906";
